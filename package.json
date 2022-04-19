@@ -1,11 +1,11 @@
 {
-  "name": "appsus-nft-art-generator",
-  "version": "0.0.6",
-  "description": "Appsus NFT Art generator app",
-  "homepage": "https://github.com/AppsusUK/NFT-Art-Generator",
+  "name": "desktop-nft-art-maker-windows",
+  "version": "0.0.1",
+  "description": "Generate combinations of PNGs artwork for NFTs and more",
+  "homepage": "https://github.com/discoursedigital/nft-maker-desktop",
   "author": {
-    "name": "Appsus & Abdul",
-    "email": "hello@appsus.co.uk"
+    "name": "Discourse Digital",
+    "email": "nftmaker@discoursedigital.com"
   },
   "keywords": [
     "NFT",
